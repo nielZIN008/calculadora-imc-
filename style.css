@@ -1,0 +1,33 @@
+body {
+    background-color: #c68642;
+    text-align: center;
+    margin-top: 20px;
+}
+
+#texto,
+#botao {
+    display: block;
+}
+
+#inputs {
+    font: normal 20px arial;
+    margin-top: 15px;
+    background-color: #c68642;
+}
+
+#n1 {
+    margin-top: 20px;
+}
+#n2 {
+    margin-top: 20px;
+}
+
+#al {
+    margin-top: 15px;
+}
+
+#botao {
+    margin-top: 10px;
+    color: black;
+    margin-left: 730px;
+}
